@@ -2,7 +2,8 @@
 I am a mathematics graduate with a passion of decomposing complexity and establishing relationships in data. I had diverse opportunities abroad as a pharmaceutical research intern in Tokyo, Japan to teaching English to elementary-grade students in Daejeon, South Korea. These experiences not only broadened my perspective but highlighted the power of data-driven insights in shaping actionable, impactful solutions.
 
 I recently completed LearningFuze's Data and Infrastructure Program, where I honed my data analysis and technical skills. Currently, these repositories are a work of progress. 
-Besides data projects, I enjoy exploring denim trends, sharpening my coding skills, or discovering ways to re-interpret things mathematically. Please feel free to check out my projects~
+
+Besides data projects, I enjoy exploring fashion trends, sharpening my coding skills, or discovering ways to re-interpret things mathematically. Please feel free to check out my projects~
 <!--
 **tnewtont/tnewtont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 My ultimate goal is to leverage data science in creative, dynamic fields like fashion, where trends and operations can be enhanced through intelligent analytics. 
