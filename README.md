@@ -1,5 +1,5 @@
 ## Hi there~ 👋
-I am a mathematics graduate with a passion of decomposing complexity and establishing relationships in data. I had diverse opportunities abroad as a pharmaceutical research intern in Tokyo, Japan to teaching English to elementary-grade students in Daejeon, South Korea. These experiences not only broadened my perspective but highlighted the power of data-driven insights in shaping actionable, impactful solutions.
+I am a mathematics graduate with a passion of decomposing complexity and establishing relationships in data. I had diverse opportunities abroad as a pharmaceutical research intern in Tokyo, Japan to teaching English to elementary-grade students in Daejeon, South Korea. These experiences not only broadened my perspective but highlighted the importance of utilizing data to help drive actionable, impactful solutions.
 
 I recently completed LearningFuze's Data and Infrastructure Program, where I honed my data analysis and technical skills. Currently, these repositories are a work of progress. 
 
