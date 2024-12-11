@@ -6,7 +6,7 @@ I recently completed LearningFuze's Data and Infrastructure Program, where I hon
 Besides data projects, I enjoy exploring fashion trends, sharpening my coding skills, or discovering ways to re-interpret things mathematically. Please feel free to check out my projects~
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/downloads/release/python-3120/)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -16,7 +16,7 @@ Besides data projects, I enjoy exploring fashion trends, sharpening my coding sk
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Python](https://img.shields.io/badge/python-3.12-blue.svg)
+
  
 
 <!--
@@ -26,6 +26,7 @@ TO-DO LIST: Add badges!
 Here are some ideas to get you started:
 - Add a table of contents
 - Make sure your repository names 
+![Python](https://img.shields.io/badge/python-3.12-blue.svg)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
