@@ -6,7 +6,7 @@ I recently completed LearningFuze's Data and Infrastructure Program, where I hon
 
 Besides data projects, I enjoy exploring fashion trends, sharpening my coding skills, or discovering ways to re-interpret things mathematically. Please feel free to check out my projects~
 <base target="_blank">
-<a href='https://docs.python.org/3/'>[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]</a>
+<a href="https://docs.python.org/3/" target="_blank">[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]</a>
 
 
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
