@@ -20,6 +20,7 @@ Besides data projects, I enjoy exploring fashion trends, sharpening my coding sk
 
 
 <!--
+Get editor and render to SVG
 **tnewtont/tnewtont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 My ultimate goal is to leverage data science in creative, dynamic fields like fashion, where trends and operations can be enhanced through intelligent analytics. 
 TO-DO LIST: Add badges!
