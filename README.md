@@ -6,7 +6,9 @@ I recently completed LearningFuze's Data and Infrastructure Program, where I hon
 
 Besides data projects, I enjoy exploring fashion trends, sharpening my coding skills, or discovering ways to re-interpret things mathematically. Please feel free to check out my projects~
 
-![Python](https://raw.githubusercontent.com/tnewtont/tnewtont/89bf7093a5ff60a403a7cad5bf29f540ca780d9f/python.svg)
+<img src="https://github.com/user-attachments/assets/e6e29c2b-f175-464a-b733-165349373bc6" title="Python"> 
+
+
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/tnewtont)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/stable/users/index.html)
@@ -21,6 +23,7 @@ Besides data projects, I enjoy exploring fashion trends, sharpening my coding sk
 
 <!--
 Get editor and render to SVG
+![Python](https://raw.githubusercontent.com/tnewtont/tnewtont/89bf7093a5ff60a403a7cad5bf29f540ca780d9f/python.svg)
 **tnewtont/tnewtont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 My ultimate goal is to leverage data science in creative, dynamic fields like fashion, where trends and operations can be enhanced through intelligent analytics. 
 TO-DO LIST: Add badges!
