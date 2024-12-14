@@ -6,9 +6,9 @@ I recently completed LearningFuze's Data and Infrastructure Program, where I hon
 
 Besides data projects, I enjoy exploring fashion trends, sharpening my coding skills, or discovering ways to re-interpret things mathematically. Please feel free to check out my projects~
 <base target="_blank">
-<a href="https://docs.python.org/3/" target="_blank">[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]</a>
+<a href="https://docs.python.org/3/" target="_blank"></a>
 
-
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/3/)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/stable/users/index.html)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/stable/user/index.html#user)
@@ -20,7 +20,7 @@ Besides data projects, I enjoy exploring fashion trends, sharpening my coding sk
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/api_docs)
 
 
- 
+<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script> 
 
 <!--
 **tnewtont/tnewtont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
