@@ -1,11 +1,11 @@
 ## Hi there~ 👋
+<base target="_blank">
 I am a mathematics graduate with a passion of decomposing complexity and establishing relationships in data. I had diverse opportunities abroad as a pharmaceutical research intern in Tokyo, Japan to teaching English to elementary-grade students in Daejeon, South Korea. These experiences not only broadened my perspective but highlighted the importance of utilizing data to help drive actionable, impactful solutions.
 
 I recently completed LearningFuze's Data and Infrastructure Program, where I honed my data analysis and technical skills. Currently, these repositories are a work of progress. 
 
 Besides data projects, I enjoy exploring fashion trends, sharpening my coding skills, or discovering ways to re-interpret things mathematically. Please feel free to check out my projects~
 
-<a href='https://docs.python.org/3/'> Sample </a>
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/3/)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/stable/users/index.html)
